@@ -1,6 +1,12 @@
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/km185n123/km185n123/main/Captura%20desde%202026-04-07%2001-24-48.png" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Julián López</h1>
 <h3 align="center">Senior Mobile Full Stack Engineer 🚀</h3>
-
 <p align="center">
 📍 Medellín, Colombia | 🌎 Remote / International  
 </p>
