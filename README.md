@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/km185n123/km185n123/main/Captura%20desde%202026-04-07%2001-24-48.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/km185n123/km185n123/main/Captura%20desde%202026-04-07%2001-24-48.png" width="100%" height="300px" style="object-fit: cover;"/>
 </p>
 <h1 align="center">Hi 👋, I'm Julián López</h1>
 <h3 align="center">Senior Mobile Full Stack Engineer 🚀</h3>
